@@ -1,0 +1,8 @@
+.customBtn{
+    background: linear-gradient(blue, purple);
+    color: white;
+    margin: 5px 0px;
+    cursor: pointer;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
